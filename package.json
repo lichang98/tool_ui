@@ -17,7 +17,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^4.6.0",
     "electron": "^11.1.0",
     "element-ui": "^2.14.1",
     "jquery": "^3.5.1",
@@ -28,7 +28,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "backbone": "^1.4.0",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^4.6.0",
     "bootstrap-css": "^4.0.0-alpha.5",
     "echarts": "^5.0.0",
     "electron-packager": "^15.2.0",
